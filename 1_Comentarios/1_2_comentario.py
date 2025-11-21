@@ -1,0 +1,12 @@
+"""
+comentario
+de
+multiples
+lineas
+"""
+'''
+comentario
+de 
+multiples
+lineas
+'''
